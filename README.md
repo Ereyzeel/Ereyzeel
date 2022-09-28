@@ -4,4 +4,4 @@
 <br>
 「 ❀ Fun fact: I'm an digital artist. 」
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereyzeel&show_icons=true&theme=synthwave)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ereyzeel&show_icons=true&theme=synthwave)](https://github.com/Ereyzeel/github-readme-stats)
