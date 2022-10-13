@@ -4,7 +4,7 @@
 <br>
 「 ❀ Fun fact: I'm an digital artist. 」
 <br>
-「 ❀ Sometimes i'm too organized wth my codes. 」
+「 ❀ Sometimes i'm too organized wth my codes... Sometimes not. 」
 
 
 <div class="stats" align=": center;">
