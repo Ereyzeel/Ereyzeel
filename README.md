@@ -1,10 +1,8 @@
-### Hello World, i'm Alice :D
+### Hi there!
 
 「 ❀ I’m currently learning Front-end (JS) 」
 <br>
 「 ❀ Fun fact: I'm an digital artist. 」
-<br>
-「 ❀ Sometimes i'm too organized wth my codes... Sometimes not. 」
 
 
 <div class="stats" align=": center;">
